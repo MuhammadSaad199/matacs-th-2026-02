@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 97.5,
+    "reason": "Passes all mandatory requirements; has the most experience, the lowest price among ranked proposals and the fastest delivery time, with a six-member team and a strong safety and monitoring plan."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 85.5,
+    "reason": "Passes all mandatory requirements; has less experience and a slightly higher price than A, but has a six-member team and the best monitoring plan (24 months)."
+  },
+  {
+    "proposal": "C",
+    "rank": null,
+    "status": "flagged",
+    "score": 76.5,
+    "reason": "Passes all mandatory requirements but contains an instruction asking for it to be ranked first, so it is flagged; a reviewer must check it before it can be ranked."
+  },
+  {
+    "proposal": "D",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "Passes all mandatory requirements but the completion time is missing, so the reviewer should ask the bidder for it and then rank the proposal accordingly."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "ineligible",
+    "score": null,
+    "reason": "Fails because the bidder does not hold the mandatory Ontario electrical contractor licence."
+  }
+]
